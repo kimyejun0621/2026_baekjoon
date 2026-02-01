@@ -1,0 +1,101 @@
+#	Title	URL	출처	문제설명	난이도
+A001	Assign Cookies	LINK	leetcode	최대한 많은 아이들에게 만족할 만한 쿠키를 주어야 한다. 쿠키 사이즈 (int[ ] g)와 아이들이 만족하는 쿠키 사이즈(int[ ] s)가 매개변수로 주어지는 함수를 작성한다.	Easy
+A002	Pascal's Triangle	LINK	leetcode	파스칼 삼각형의 rowNumber가 주어졌을 때, 그 삼각형의 각 값을 배열의 형태로 return하는 함수 작성한다.	Easy
+A003	Plus One	LINK	leetcode	주어진 정수 배열을 하나의 정수 값이라고 생각했을 때, 그 정수에 1을 더한 값을 다시 배열의 형태로 return 하는 함수를 작성한다.	Easy
+A004	나누어 떨어지는 숫자 배열	LINK	programmers	array의 각 element 중 divisor로 나누어 떨어지는 값을 오름차순으로 정렬한 배열을 반환	Very Easy
+A005	스킬트리	LINK	programmers	skill(String), skill_trees(String[] skill_trees)가 매개변수로 주어진다. skill 순서에 맞는 skill_trees의 개수를 return하는 함수를 작성한다.	Easy
+A006	문자열 내 p와 y의 개수	LINK	programmers	대문자와 소문자가 섞여있는 문자열 s가 주어집니다. s에 'p'의 개수와 'y'의 개수를 비교해 같으면 True, 다르면 False를 return 	Very Easy
+A007	음계 판별하기	LINK	백준	8개의 숫자를 입력 받고 이 숫자들이 오름차순 정렬일 경우 ascending, 내림차순 정렬 일 경우 descending, 이 둘이 아니라면 mixed를 출력한다.	Very Easy
+A008	평균은 넘겠지	LINK	백준	테스트 케이스(학생들의 점수)를 입력 받고 케이스마다 한 줄씩 평균을 넘는 학생들의 비율을 반올림하여 소수점 셋째 자리까지 출력한다.	Very Easy
+A009	문자열 다루기 기본	LINK	programmers	문자열 s의 길이가 4 혹은 6이고, 숫자로만 구성돼있는지 확인해주는 함수 작성	Very Easy
+A010	문자열 압축	LINK	programmers	문자열 s가 주어졌을 때, 1개 이상 단위로 문자열을 잘라 압축하여 표현한 문자열 중 가장 짧은 것의 길이를 구하는 문제.	Easy
+A011	실패율	LINK	programmers	스테이지 개수 N과 스테이지 현황 배열 stages가 주어졌을 때, N개의 스테이지 각각의 실패율을 구하는 문제.	Easy
+A012	Count Primes	LINK	leetcode	음이 아닌 숫자 n보다 작은 소수의 개수 세기.	Easy
+A013	Single Number	LINK	leetcode	비어 있지 않은 정수 배열이 주어지면 모든 요소는 하나를 제외하고 두 번 나타난다. 그 하나를 찾기.	Very Easy
+A014	Summary Ranges	LINK	leetcode	배열의 모든 숫자를 정확하게 포함하는 가장 작은 정렬된 범위 목록을 반환	Easy
+A015	검증수	LINK	백준	고유번호 5자리의 숫자들이 빈칸을 사이에 두고 하나씩 주어지면, 각 숫자를 제곱한 수들의 합을 10으로 나눈 나머지를 구하는 문제	Very Easy
+A016	구명보트	LINK	programmers	두명씩 옮길 수 있고 한계무게가 있는 구명보트가 있을 때, 사람들을 옮기는 최소한의 횟수를 구하는 문제.	Easy
+A017	방 번호	LINK	백준	방 번호 N을 만들기 위해 필요한 숫자 세트의 개수를 구하는 문제. 단, 6과 9는 뒤집어서 서로로 이용할 수 있다.	Very Easy
+A018	보물	LINK	백준	정수 배열 A와 B의 각 값을 곱하는 프로그램이다. 결과 값을 가장 작게 만들기 위해 A의 수를 재배열 하여 최솟값을 출력하는 문제	Very Easy
+A019	숫자의 개수	LINK	백준	세 개의 자연수 A, B, C가 주어질 때 A × B × C를 계산한 결과에 0부터 9까지 각각의 숫자가 몇 번씩 쓰였는지를 구하는 문제	Very Easy
+A020	지능형 기차	LINK	백준	4개의 역에 대해 기차에서 내린 사람 수와 탄 사람 수가 주어졌을 때, 기차에 사람이 가장 많을 때의 사람 수를 계산하는 문제	Very Easy
+A021	플러그	LINK	백준	하나의 플러그가 있고, N개의 멀티탭이 있다. 각 멀티탭은 몇 개의 플러그로 이루어져 있다고 한다. 최대 몇 대의 컴퓨터를 전원에 연결할 수 있는지 출력하는 문제	Very Easy
+A022	핸드폰 요금	LINK	백준	통화 시간 목록이 주어졌을 때, 청구 방식이 다른 두 가지 요금제 중 더 저렴한 요금제를 구하는 문제.	Very Easy
+A023	Add Digits	LINK	leetcode	정수가 주어지면 결과가 한 자리만 될 때까지 모든 숫자를 반복해서 추가하고 반환하는 문제	Easy
+A024	Lemonade Change	LINK	leetcode	정수 배열 청구서가 주어졌을 때, 모든 고객에게 정확한 거스름돈을 제공할 수 있으면 true를 반환하고 그렇지 않으면 false를 반환한다. 	Easy
+A025	Power of Four	LINK	leetcode	정수 n이 주어지고, 이 수가 4의 거듭 제곱인지 아닌지 판별하는 문제	Easy
+A026	하샤드 수	LINK	programmers	양의 정수 x의 각 자리수의 합으로 x가 나누어졌을 때 나머지가 0인지 아닌지 판별하는 문제이다. 	Very Easy
+A027	큰 수 만들기	LINK	programmers	어떤 숫자에서 k개의 수를 제거했을 때 얻을 수 있는 가장 큰 숫자를 구하는 문제	Easy
+A028	큰 수 A+B	LINK	백준	크기가 큰 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 문제	Very Easy
+A029	문문문	LINK	백준	문을 규칙에 맞는 방법으로 열어야하도록 시스템을 구성하였다.  문의 개수를 입력받고 문을 여는 방법을 한줄에 하나씩 출력한다.	Easy
+A030	좋은 날 싫은 날	LINK	백준	N일 뒤의 재현이의 기분이 좋은 날일 확률과 싫은 날일 확률에 1,000을 곱해 소수점 첫째자리에서 반올림한 수를 차례대로 출력한다.	Easy
+A031	초콜릿 자르기	LINK	백준	초콜릿의 크기가 주어졌을 때, 이를 1×1 크기의 초콜릿으로 쪼개기 위한 최소 쪼개기 횟수를 구하는 문제	Very Easy
+A032	부녀회장이 될테야	LINK	백준	주어지는 양의 정수 k와 n에 대해 k층에 n호에는 몇 명이 살고 있는지 출력한다. 단, 아파트에는 0층부터 있고 각층에는 1호부터 있으며, 0층의 i호에는 i명이 산다.	Easy
+A033	나는 요리사다	LINK	백준	총 다섯 개 줄에 각 참가자가 얻은 네 개의 평가 점수가 공백으로 구분되어 주어진다. 우승자의 번호와 그가 얻은 점수를 출력하는 문제	Very Easy
+A034	나머지	LINK	백준	수 10개를 입력받은 뒤, 이를 42로 나눈 나머지를 구한다. 그 다음 서로 다른 값이 몇 개 있는지 출력하는 문제	Very Easy
+A035	화성 수학	LINK	백준	문제에 화성 수학식에 대한 설명이 주어진다. 화성 수학식이 입력으로 주어지면 그 계산 값을 출력하는 문제	Very Easy
+A036	숫자 골라내기  (목록 중 1번)	LINK	codeground	N개의 정수들 중에서 홀수번 나타나는 숫자들을 모두 XOR 연산을 한 결과 값을 출력한다. 	Easy
+A037	Self Dividing Numbers	LINK	leetcode	두 정수가 주어졌을 때, 그 범위 안의 자기 분할 숫자를 구하는 문제. 자기 분할 숫자란 포함된 모든 숫자로 나눌 수 있는 수이다.	Easy
+A038	Sqrt(x)	LINK	leetcode	정수 x가 주어진 경우 x의 제곱근을 계산하여 반환하는 문제	Easy
+A039	Valid Perfect Square	LINK	leetcode	정수가 주어지면 sqrt 함수를 사용하지 않고 정사각형인지 아닌지 판별하는 문제	Easy
+A040	Determine if String Halves Are Alike	LINK	leetcode	대소문자가 구분된 문자열을 반으로 나누었을 때, 양쪽의 모음 수가 같은 지 구하는 문제.	Easy
+A041	JadenCase 문자열 만들기	LINK	programmers	문자열을 JadenCase(모든 단어의 첫 문자가 대문자이고, 그 외는 소문자인 문자열)로 바꾸는 문제.	Easy
+A042	Backspace String Compare	LINK	leetcode	두 문자열이 주어지는데 '#'은 backspace를 의미한다. 두 문자열을 빈 텍스트 편집기에 입력했을 때 최종 결과가 같은지 다른지 판별하는 문제 	Easy
+A043	Longest Common Prefix	LINK	leetcode	문자열 배열 중에서 가장 긴 공통 접두사 문자열을 찾는 함수를 작성한다.	Easy
+A044	Student Attendance Record I	LINK	leetcode	학생들의 출결 사항을 문자로 표현하여 최종 출결 사항을 하나의 문자열로 주어진다. 문제에 주어진 조건에 맞게 출결을 체크하는 함수를 작성한다. 	Easy
+A045	단어 공부	LINK	백준	알파벳 대소문자로 된 단어가 주어지면, 이 단어에서 가장 많이 사용된 알파벳이 무엇인지 알아내는 프로그램을 작성한다.	Very Easy
+A046	농구 경기	LINK	백준	농구 선수를 선발할 수 있는 경우에는 가능한 성의 첫 글자를 사전순으로 공백없이 모두 출력하고 그렇지 않으면 PREDAJA를 출력하는 문제	Very Easy
+A047	열개씩 끊어 출력하기	LINK	백준	입력으로 주어진 단어를 열 개씩 끊어서 한 줄에 하나씩 출력한다.	Very Easy
+A048	그룹 단어 체커	LINK	백준	String을 입력 받아 그 String이 그룹 단어(문제에 조건이 주어짐)인지 아닌지 판별하여 그룹단어인 String의 개수를 출력하는 문제이다. 	Very Easy
+A049	비밀번호 발음하기	LINK	백준	문자열을 입력 받고 주어진 조건에 맞는 비밀번호인지 아닌지를 판별하는 문제	Very Easy
+A050	카이사르 암호	LINK	백준	입력받은 카이사르 단어를 원래 단어로 고쳐서 출력한다.	Very Easy
+A051	다이얼	LINK	백준	알파벳을 입력 받고, 그 알파벳으로 전화를 걸 때 걸리는 최소 시간을 구하는 문제. 전화를 걸 때 걸리는 시간이 각 알파벳 별로 다르다. 	Very Easy
+A052	OX퀴즈	LINK	백준	OX퀴즈의 결과가 String으로 주어졌을 때, 점수를 구하는 프로그램을 작성한다.	Very Easy
+A053	스택	LINK	백준	정수를 저장하는 스택을 구현하고, 입력으로 주어지는 스택 관련 명령을 처리하는 문제	Very Easy
+A054	크레인 인형뽑기 게임	LINK	programmers	인형을 뽑는 라인의 순서인 moves에 따라 board에서 인형을 뽑을 때, 인형이 연속으로 2개 있으면 터진다. 터져서 사라진 인형의 갯수를 구하는 문제.	Easy
+A055	Remove Outermost Parentheses	LINK	leetcode	괄호 문자열이 주어질 때, primitive 분해를 하고 가장 바깥쪽 괄호를 제거 하는 문제	Easy
+A056	Next Greater Element I	LINK	leetcode	두 배열 num1,num2가 주어질때 두개의 값이 같아지는 num2의 인덱스를 구하고, nums2[j] 다음으로 큰 요소를 계산하는 문제 	Easy
+A057	쿠키 구입	LINK	programmers	쿠키 개수가 들어있는 cookie 배열이 있을 때, l~m번까지와 m+1~r까지의 합이 같은 경우 중, 총합이 가장 큰 경우를 구하는 문제.	Easy
+A058	Reverse Linked List	LINK	leetcode	singly linked list가 주어졌을 때, 반대로 출력하는 문제.	Easy
+A059	시험 공부  (목록 중 3번)	LINK	codeground	정수들이 주어졌을 때, 내림차순으로 정렬한 후 앞에서부터 K개를 합을 구하는 문제.	Easy
+A060	Baseball Game	LINK	leetcode	주어진 배열의 값들을 연산하여 결과를 내는 문제. 단 특수한 연산을 해야하는 값이 존재한다.	Easy
+A061	Excel Sheet Column Title	LINK	leetcode	정수가 주어졌을 때, 해당 정수 열 번호가 Excel 시트에 나타나는 대로 반환하는 문제. (ex) 701 --> ZY)	Easy
+A062	2016년	LINK	programmers	두 수 a ,b를 입력받아 2016년 a월 b일이 무슨 요일인지 구하는 문제.	Easy
+A063	Add Binary	LINK	leetcode	두 숫자를 가진 두 문자열이 주어졌을 때, 두 수의 합을 문자열로 출력하는 문제.	Easy
+A064	Height Checker	LINK	leetcode	heights[i] != expected[i]인 인덱스의 수를 반환	Easy
+A065	좌표 정렬하기	LINK	백준	N개의 좌표가 주어졌을 때, 좌표들을 x좌표가 증가하는 순으로 정렬하는 문제. 이 때, x좌표가 같으면 y좌표가 증가하는 순서로 정렬.	Easy
+A066	소트인사이드	LINK	백준	주어진 수의 각 자리수를 내림차순으로 정렬하는 문제.	Easy
+A067	Remove All Adjacent Duplicates In String	LINK	leetcode	문자열이 주어졌을 때, 이웃한 두 문자가 같으면 제거해야 하는 문제. 이 때, 제거 후의 문자열에서도 이웃한 두 문자가 같으면 계속 제거해야 한다.	Easy
+A068	큐 2	LINK	백준	정수를 저장하는 큐를 구현하고, 입력으로 주어지는 큐 관련 명령을 처리하는 문제	Easy
+A069	요세푸스 문제 0	LINK	백준	N명이 원을 그리며 앉아있고 양의 정수 K가 주어졌을 때, 순서대로 K번째 사람을 제거한다. 이 때, 원에서 사람들이 제거되는 순서를 (N, K)-요세푸스 순열이라 한다. N, K가 주어지면 요세푸스 순열을 구하는 문제.	Easy
+A070	카드2	LINK	백준	N장의 카드에는 차례로 1부터 N까지의 번호가 있다. N이 주어졌을 때, 제일 위에 있는 카드를 바닥에 버린 후, 제일 위에 있는 카드를 제일 아래에 있는 카드 밑으로 옮기는 동작을 반복한다. 이 동작을 반복했을 때, 제일 마지막에 남게 되는 카드를 구하는 프로그램이다.	Easy
+A071	Implement Queue using Stacks	LINK	leetcode	스택(stack)을 사용하여 큐(Queue)의 push, pop, peek, empty를 구현하는 문제	Easy
+A072	Day of the Year	LINK	leetcode	YYY-MM-DD 형식의 날짜를 나타내는 문자열이 주어지고, 해당 연도 일 수를 반환하는 함수 작성	Easy
+A073	Fizz Buzz	LINK	leetcode	3과 5의 배수 자리에는 "FizzBuzz" 를 넣고, 3의 배수에는 "Fizz", 5의 배수에는 "Buzz"를 넣는다. 나머지는 숫자로 넣은 리스트를 반환하는 함수 작성	Easy
+A074	Valid Palindrome	LINK	leetcode	문자열이 지정된 경우 영숫자 문자만 고려하고 대소문자를 무시하여 Palindrome인지 확인하는 문제	Easy
+A075	가장 큰 수	LINK	programmers	0 또는 양의 정수가 주어졌을 때, 정수를 이어 붙여 만들 수 있는 가장 큰 수를 알아내기	Easy
+A076	염라대왕의 이름 정렬 	LINK	swexpert	이름의 길이가 짧을수록 이 앞에 있고, 같은 길이면 사전 순으로 앞에 있도록 정렬	Easy
+A077	점수 계산	LINK	백준	참가자의 8개 문제 점수가 주어졌을 때, 총 점수를 구하는 프로그램	Easy
+A078	H-Index	LINK	programmers	어떤 과학자가 발표한 논문의 인용 횟수를 담은 배열 citations가 매개변수로 주어질 때, 이 과학자의 H-Index를 return	Easy
+A079	K번째수	LINK	programmers	배열 array의 i번째 숫자부터 j번째 숫자까지 자르고 정렬했을 때, k번째에 있는 수를 구하기	Easy
+A080	Majority Element	LINK	leetcode	주어진 정수 배열의 size를 N이라 했을 때, N/2보다 많이 존재하는 수를 구하는 문제.	Easy
+A081	N번째 큰 수	LINK	백준	배열 A가 주어졌을 때, N번째 큰 값을 출력하는 프로그램	Easy
+A082	나이순 정렬	LINK	백준	나이와 이름이 주어졌을 때, 나이 순으로 나이와 이름을 정렬하는 문제.	Easy
+A083	중복 빼고 정렬하기	LINK	백준	N개의 정수가 주어졌을 때, 중복을 제외하고 오름차순으로 정렬하는 문제.	Easy
+A084	접미사 배열	LINK	백준	주어진 문자열의 모든 접미사를 사전순으로 정렬하여 출력하는 문제.	Easy
+A085	시리얼 번호	LINK	백준	알파벳 대문자와 숫자로만 이루어진 문자열을 정렬해서 출력하는 문제.	Easy
+A086	숫자 놀이	LINK	백준	두 개의 정수가 주어졌을 때, 정수를 각 자리 숫자를 하나씩 읽었을 때를 기준으로 사전순으로 정렬하여 출력하는 문제.	Easy
+A087	Maximum Units on a Truck	LINK	leetcode	트럭에 실을 수 있는 총 최대  단위 수를 반환	Easy
+A088	Min Stack	LINK	leetcode	일정 시간 내에 최소한의 항목을 검색하여 push, pop, top 기능을 가진 스택을 구현하는 문제	Easy
+A089	Convert Sorted Array to Binary Search Tree	LINK	leetcode	오름차순으로 정렬된 정수 배열이 있을 때, height-balanced binary search tree로 변환하는 문제.	Easy
+A090	Remove Duplicates from Sorted Array	LINK	leetcode	정렬된 수의 배열이 주어졌을 때, 배열 속 중복된 수를 제거한 후 길이를 출력하는 문제. 이 때, 새로운 배열 등을 생성하지 않아야 한다.	Easy
+A091	Remove Element	LINK	leetcode	정수 배열 nums와 정수 val이 주어지면 nums에서 val의 모든 항목을 제자리에서 제거하기	Easy
+A092	Sort Array By Parity II	LINK	leetcode	정수 배열의 값이 홀수일때 그 인덱스도 홀수, 값이 짝수일때 그 인덱스도 짝수가 되도록 정렬하는 문제	Easy
+A093	Merge Sorted Array	LINK	leetcode	내림차순으로 정렬되어 있지 않은 두 배열을 하나로 병합하여 내림차순으로 정렬	Easy
+A094	크로아티아 알파벳	LINK	백준	단어가 주어졌을 때, 몇 개의 크로아티아 알파벳으로 이루어져 있는지 출력한다.	Easy
+A095	Valid Phone Numbers	LINK	leetcode	전화번호 목록을 포함하는 텍스트 파일이 주어질때 모든 유효한 전화번호를 출력하는 bash 스크립트를 작성하는 문제	Easy
+A096	Number of 1 Bits	LINK	leetcode	부호 없는 정수를 받아 '1' 비트 수(Hamming Weight)를 반환하는 함수를 작성하는 문제	Easy
+A097	Two Sum II - Input Array is Sorted	LINK	leetcode	내림차순으로 정렬되어 있는 1 인덱스 배열의 정수 배열이 주어질때 특정 목표 숫자에 합해지는 두 숫자를 찾는 문제	Easy
+A098	Intersection of Two Linked Lists	LINK	leetcode	두 개의 단일 연결 목록의 헤드가 주어지면 두 목록이 교차하는 노드를 반환하는 문제	Easy
+A099	Valid Parentheses	LINK	leetcode	bracket으로 구성된 문자가 유효한지 확인하는 문제	Easy
+A100	Range Sum of BST	LINK	leetcode	Binary Search Tree의 루트노드와 두 정수가 주어질 때 두 수사이 포함 범위에 있는 값을 가진 모든 노드의 합을 구하는 문제	Easy
